@@ -8,3 +8,5 @@ My name is Niko and I make small code projects in my free time. Feel free to che
 - **[passly](https://github.com/nikooozzz/passly)**: An old project where I tried to make it easier to migrate passwords between password managers.
 
 Also, check out my [AUR profile](https://aur.archlinux.org/packages?K=nikooozzz&SeB=m) for Arch packages I maintain!
+
+![Commit Graph](https://api.nikoware.com/v1/contribution-graphs?user=nikooozzz&sources=github,gitlab)
