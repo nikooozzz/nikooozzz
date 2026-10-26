@@ -9,4 +9,4 @@ My name is Niko and I make small code projects in my free time. Feel free to che
 
 Also, check out my [AUR profile](https://aur.archlinux.org/packages?K=nikooozzz&SeB=m) for Arch packages I maintain!
 
-![Commit Graph](https://api.nikoware.com/v1/contribution-graphs?user=nikooozzz&sources=github,gitlab)
+![Commit Graph](https://api.nikoware.com/v1/contribution-graphs?user=nikooozzz&sources=github,gitlab,aur&aur_author=Niko)
