@@ -2,6 +2,7 @@
 
 My name is Niko and I make small code projects in my free time. Feel free to check them out!
 
+- **[contribution-graphs](https://github.com/nikooozzz/contribution-graphs)**: Simple contribution graphs service, but with more sources.
 - **[gdstyle-action](https://github.com/nikooozzz/gdstyle-action)**: A small GitHub action that leverages gdstyle for linting and formatting in CI.
 - **[widget-engine](https://github.com/nikooozzz/widget-engine)**: A Wayland desktop widget engine with minimal idle usage.
 - **[scented-candles-mod](https://github.com/nikooozzz/scented-candles-mod)**: A small Vanilla+ mod for Minecraft that add scented candles (which give you effects after sleeping!).
