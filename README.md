@@ -10,18 +10,18 @@ My name is Niko and I make small code projects in my free time. Feel free to che
 
 <p align="center">
   <a href="https://github.com/nikooozzz/contribution-graphs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikooozzz&repo=contribution-graphs&theme=dark" width="48%" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=nikooozzz&repo=contribution-graphs&theme=dark" width="48%" />
   </a>
   <a href="https://github.com/nikooozzz/widget-engine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikooozzz&repo=widget-engine&theme=dark" width="48%" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=nikooozzz&repo=widget-engine&theme=dark" width="48%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/nikooozzz/gdstyle-action">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikooozzz&repo=gdstyle-action&theme=dark" width="48%" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=nikooozzz&repo=gdstyle-action&theme=dark" width="48%" />
   </a>
   <a href="https://github.com/nikooozzz/scented-candles-mod">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikooozzz&repo=scented-candles-mod&theme=dark" width="48%" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=nikooozzz&repo=scented-candles-mod&theme=dark" width="48%" />
   </a>
 </p>
 <p align="center">
