@@ -1,13 +1,52 @@
-## Hello
+<p align="center">
+  <img src="./assets/foss-banner.svg" alt="Dynamic FOSS Banner" width="100%" />
+</p>
+
+### Introduction
 
 My name is Niko and I make small code projects in my free time. Feel free to check them out!
 
-- **[contribution-graphs](https://github.com/nikooozzz/contribution-graphs)**: Simple contribution graphs service, but with more sources.
-- **[gdstyle-action](https://github.com/nikooozzz/gdstyle-action)**: A small GitHub action that leverages gdstyle for linting and formatting in CI.
-- **[widget-engine](https://github.com/nikooozzz/widget-engine)**: A Wayland desktop widget engine with minimal idle usage.
-- **[scented-candles-mod](https://github.com/nikooozzz/scented-candles-mod)**: A small Vanilla+ mod for Minecraft that add scented candles (which give you effects after sleeping!).
-- **[passly](https://github.com/nikooozzz/passly)**: An old project where I tried to make it easier to migrate passwords between password managers.
+### Featured Projects
 
-Also, check out my [AUR profile](https://aur.archlinux.org/packages?K=nikooozzz&SeB=m) for Arch packages I maintain!
+<p align="center">
+  <a href="https://github.com/nikooozzz/contribution-graphs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikooozzz&repo=contribution-graphs&theme=dark" width="48%" />
+  </a>
+  <a href="https://github.com/nikooozzz/widget-engine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikooozzz&repo=widget-engine&theme=dark" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/nikooozzz/gdstyle-action">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikooozzz&repo=gdstyle-action&theme=dark" width="48%" />
+  </a>
+  <a href="https://github.com/nikooozzz/scented-candles-mod">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikooozzz&repo=scented-candles-mod&theme=dark" width="48%" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://api.nikoware.com/v1/contribution-graphs?user=nikooozzz&sources=github,gitlab,aur&aur_author=Niko" alt="Commit Graph"/>
+</p>
 
-![Commit Graph](https://api.nikoware.com/v1/contribution-graphs?user=nikooozzz&sources=github,gitlab,aur&aur_author=Niko)
+### Writing
+
+I occasionally write about programming, self-hosting, music, and other stuff I like over at **[nikoware.com](https://blog.nikoware.com)**. Here's the latest blog post:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<p align="center">
+  <a href="https://nikoware.com">
+    <img src="https://img.shields.io/badge/-nikoware.com-181818?style=flat&logo=firefox&logoColor=white" alt="Website" />
+  </a>
+
+  <a href="https://aur.archlinux.org/packages?K=nikooozzz&SeB=m">
+    <img src="https://img.shields.io/badge/AUR-nikooozzz-1793D1?style=flat&logo=archlinux&logoColor=white" alt="AUR" />
+  </a>
+
+  <a href="mailto:your-email@nikoware.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
