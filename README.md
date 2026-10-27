@@ -58,7 +58,7 @@ I occasionally write about programming, self-hosting, music, and other stuff I l
     <img src="https://img.shields.io/badge/AUR-nikooozzz-1793D1?style=flat&logo=archlinux&logoColor=white" alt="AUR" />
   </a>
 
-  <a href="mailto:your-email@nikoware.com">
+  <a href="mailto:nikolaikack@nikoware.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
