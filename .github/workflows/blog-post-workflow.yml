@@ -1,0 +1,34 @@
+name: Latest Blog Post Workflow
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.nikoware.com/index.xml"
+          max_post_count: 1
+          description_max_length: 160
+          template: |
+            <a href="$itemUrl" target="_blank" style="text-decoration: none; color: inherit;">
+              <table width="100%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px; overflow: hidden; background-color: #0d1117; margin: 10px 0;">
+                <tr>
+                  <td width="200" valign="top" style="padding: 0; line-height: 0;">
+                    <img src="$image" alt="$title" width="200" height="130" style="object-fit: cover; border-radius: 6px 0 0 6px; display: block;" />
+                  </td>
+                  <td valign="top" style="padding: 16px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+                    <span style="font-size: 11px; color: #8b949e; text-transform: uppercase; letter-spacing: 0.5px; font-weight: 600;">$date</span>
+                    <h4 style="margin: 4px 0 8px 0; font-size: 16px; color: #58a6ff; font-weight: 600;">$title</h4>
+                    <p style="margin: 0; font-size: 13px; color: #c9d1d9; line-height: 1.4;">$description</p>
+                  </td>
+                </tr>
+              </table>
+            </a>
