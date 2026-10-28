@@ -51,7 +51,7 @@ I occasionally write about programming, self-hosting, music, and other stuff I l
 
 <p align="center">
   <a href="https://nikoware.com">
-    <img src="https://img.shields.io/badge/-nikoware.com-181818?style=flat&logo=firefox&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/-blog.nikoware.com-181818?style=flat&logo=firefox&logoColor=white" alt="Blog" />
   </a>
 
   <a href="https://aur.archlinux.org/packages?K=nikooozzz&SeB=m">
